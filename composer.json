@@ -1,0 +1,13 @@
+{
+    "name": "devazizi/php-text-delimiters",
+    "description": "a convert delimaters to php variables for write clear code",
+    "keywords": ["php delimaters", "delimaters", "clean code"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [{
+        "name": "alireza azizi",
+        "email": "dev.azizimail@gmail.com",
+        "role": "Developer"
+    }],
+    "require": {}
+}
